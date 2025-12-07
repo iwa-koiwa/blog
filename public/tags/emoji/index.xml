@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Emoji on iwaのブログ</title>
-        <link>http://localhost:1313/iwa-koiwa/blog/tags/emoji/</link>
+        <link>http://localhost:1313/iwa-koiwa/blo/tags/emoji/</link>
         <description>Recent content in Emoji on iwaのブログ</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/iwa-koiwa/blog/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/iwa-koiwa/blo/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/iwa-koiwa/blog/p/emoji-support/</link>
+        <link>http://localhost:1313/iwa-koiwa/blo/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/iwa-koiwa/blog/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/iwa-koiwa/blog/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>http://localhost:1313/iwa-koiwa/blo/p/emoji-support/</guid>
+        <description>&lt;img src="http://localhost:1313/iwa-koiwa/blo/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -40,11 +40,11 @@
         </item>
         <item>
         <title>ROS2 short</title>
-        <link>http://localhost:1313/iwa-koiwa/blog/p/ros2-short/</link>
+        <link>http://localhost:1313/iwa-koiwa/blo/p/ros2-short/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/iwa-koiwa/blog/p/ros2-short/</guid>
-        <description>&lt;img src="http://localhost:1313/iwa-koiwa/blog/p/ros2-short/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post ROS2 short" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>http://localhost:1313/iwa-koiwa/blo/p/ros2-short/</guid>
+        <description>&lt;img src="http://localhost:1313/iwa-koiwa/blo/p/ros2-short/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post ROS2 short" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;

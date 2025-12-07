@@ -1,7 +1,7 @@
-baseurl: https://github.com/iwa-koiwa/blog/
+baseurl: https://github.com/iwa-koiwa/blo
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
+title: iwaのブログ
 copyright: Example Person
 
 # Theme i18n support
@@ -107,7 +107,7 @@ params:
             lang:
             pageview:
             emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://github.com/iwa-koiwa
             requiredMeta:
                 - name
                 - email
